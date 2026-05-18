@@ -1208,3 +1208,5 @@ s.kulogos.edu.al
 pucesa.edu.ec
 alumnos.udp.cl
 mail.intech-sud.fr
+bit-edu.hu
+upecen.edu.pe
