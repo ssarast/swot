@@ -774,7 +774,6 @@ office365.nkust.edu.tw
 office365.nptu.edu.tw
 office365.npust.edu.tw
 office365.ukw.edu.pl
-ogr.ktu.edu.tr
 ogrenci.nny.edu.tr
 online.gaf.ni.ac.rs
 online.medfak.ni.ac.rs
