@@ -1231,3 +1231,4 @@ mail.hut.edu.pa
 openuniversity.ac.tz
 esenviseu.net
 aoa.edu.tr
+ms365.kangwon.ac.kr
